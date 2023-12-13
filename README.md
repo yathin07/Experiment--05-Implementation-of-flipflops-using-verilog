@@ -164,10 +164,11 @@ T FLIPFLOPS FOR TIMING DIAGRAM:
 
 ![image](https://github.com/yathin07/Experiment--05-Implementation-of-flipflops-using-verilog/assets/139841679/a0516979-2cfa-4987-8445-028ec99ba2c0)
 
-RESULTS: Implementation-of-flipflops-using-verilog successfully completed.
+
+### RESULTS:
+Implementation-of-flipflops-using-verilog successfully completed.
 
 
 
 
 
-### RESULTS 
